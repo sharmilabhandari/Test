@@ -1,0 +1,40 @@
+#aboutH2
+{
+	margin-top:2%;
+}
+small
+{
+	display: block;
+}
+#team
+{
+	margin-bottom:2%;
+}
+
+.flex-container
+{
+	display: flex;
+	flex-direction: row;
+	box-sizing: border-box;
+	align-items: center;
+	 padding : 0 15%; 
+	margin: 0 auto;
+}
+ 
+.flex-container> div
+{
+	margin: 2%;
+	
+}
+
+.card-img-top
+{
+	height: 15vw;
+	object-fit:cover;
+	width: 100%;
+}
+ .flex-container input[type=button]
+    {
+        width: -webkit-fill-available;
+    }
+}

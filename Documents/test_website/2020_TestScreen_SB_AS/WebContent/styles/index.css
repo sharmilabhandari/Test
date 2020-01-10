@@ -1,0 +1,92 @@
+@charset "ISO-8859-1";
+
+*
+{
+	margin:0;
+	padding:0;
+}
+
+body
+{
+	font-family: open-sans, sans-serif;
+;
+}
+/* button:hover
+{
+	color: white;
+	background-color: #500000;
+} */
+.btn
+{
+	color: white;
+	background-color: #500000;
+	border-color:#500000;
+	 
+}
+a
+{
+	color: white;
+	text-decoration: none;
+}
+
+#headerRow
+{
+	height: 16.020833333333334vh;
+	margin: 1% 0;
+}
+
+#headerRow h2
+{
+	margin-top: 7%;
+}
+#headerRow #mapLogo
+{
+	height: 16.020833333333334vh;
+	width: 7.918vw;
+}
+#headerRow #superFundLogo
+{
+	height: 13.020833333333334vh;
+	width: 23.753vw;
+}
+
+#indexPara
+{
+	margin: 2% 0;
+}
+
+#indexPara a
+{
+	color: blue;
+}
+
+#sidebar
+{
+background-color: #500000;	
+margin: 2% 0
+}
+
+
+.footer
+{
+   
+text-align: center;
+ padding: 1% 0; 
+background-color: #500000;
+}
+
+.footer a
+{
+	color:white;
+	text-decoration: none;
+}
+
+footer p
+{
+	color: white;
+}
+.footer label
+{
+    padding:0 2% 0 2%;
+}
+
